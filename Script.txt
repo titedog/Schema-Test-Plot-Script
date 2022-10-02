@@ -1,4 +1,3 @@
 sendm(Hello World!);
-
 :tick
 sendm(get spammed on the actionbar!, true);
